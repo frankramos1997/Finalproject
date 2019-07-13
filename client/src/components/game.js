@@ -42,7 +42,7 @@ class Game extends React.Component {
                     <div className="main-box-text">Space Quest</div>
                     </div>
                 <div className="box2 box" onClick={() => this.changeGame("game2")}>
-                    <div className="main-box-text">Alphabet</div>
+                    <div className="main-box-text2">Alphabet</div>
                     </div>
                 <div className="box3 box" onClick={() => this.changeGame("game3")}>
                     <div className="main-box-text">Typing Game</div>
